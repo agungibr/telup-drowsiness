@@ -1,0 +1,14 @@
+numpy==1.26.4
+protobuf==3.20.3
+mediapipe==0.10.9
+
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+timm
+scikit-learn
+opencv-python
+pandas
+tqdm
