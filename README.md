@@ -1,6 +1,6 @@
 #  Driver Drowsiness
 
-![](<img width="1318" height="657" alt="Image" src="https://github.com/user-attachments/assets/15897f16-a515-4017-8420-74b32d833af3" />)
+![image](https://github.com/user-attachments/assets/e4867043-4571-4338-baef-3004abe55fe6)
 
 **Dataset**
 https://drive.google.com/drive/folders/18oqffajrF_-P63iH4m_RhoxHvJb4QQ4B?usp=drive_link
