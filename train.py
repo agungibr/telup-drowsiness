@@ -15,7 +15,6 @@ from utils.dataset import FeatureDataset
 from models.rnn import RNN
 from models.lstm import LSTM
 from models.cnn import CNN
-from models.hybrid import TemporalReasoner
 
 def get_model_instance(model_type):
     if model_type == "RNN": return RNN().to(Config.DEVICE)

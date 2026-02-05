@@ -22,7 +22,7 @@ class Config:
     BATCH_SIZE = 32
     LEARNING_RATE = 1e-4
     
-    MODEL_TYPE = "LSTM" #change this to RNN, CNN, LSTM, or HYBRID
+    MODEL_TYPE = "LSTM" #change this to RNN, CNN, or LSTM
 
     FACE_DETECTION_CONFIDENCE = 0.5
     FACE_MESH_CONFIDENCE = 0.5
